@@ -26,7 +26,7 @@ Sóc una persona curiosa, amb ganes de continuar creixent en l’àmbit tecnolò
 ## 📁 Enllaç ràpid als meus projectes (2n de SMX)
 
 Aquí us deixo un petit **accés ràpid** 🔗 als projectes que he anat treballant durant el **segon curs de SMX**.  
-Així podeu veure fàcilment en què he estat aprenent i experimentant! 🚀
+Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯​
 
 - 📘 **[Projecte 2](https://github.com/pau-lopezz/Projecte2)**
 - 🧩 **[Projecte 3](https://github.com/pau-lopezz/Projecte3)**
