@@ -30,7 +30,7 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 🚀
 
 - 📘 **[Projecte 2](#projecte-2)**
 - 🧩 **[Projecte 3](#projecte-3)**
-- 💡 **[Projecte 4](./Projecte-4)**
+- 💡 **[Projecte 4](/Projecte-4)**
 
 ---
 
