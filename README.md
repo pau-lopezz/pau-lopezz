@@ -31,6 +31,7 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯​
 - 📘 **[Projecte 2](https://github.com/pau-lopezz/Projecte2)**
 - 🧩 **[Projecte 3](https://github.com/pau-lopezz/Projecte3)**
 - 💡 **[Projecte 4](https://github.com/pau-lopezz/Projecte4)**
+- 📲 **[Projecte 5](https://github.com/pau-lopezz/Projecte5)**
 
 ---
 
