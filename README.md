@@ -7,7 +7,7 @@ Estudiant apassionat pel desenvolupament web, la creació de videojocs i la cibe
 
 ## 👤 Sobre mi
 👋 Hola! Soc en Pau.
-Tinc 17 anys i actualment estudio SMX, un camí que he triat perquè m’agrada tot el que envolta la tecnologia, el gaming i el disseny digital. 🎮✨
+Tinc 18 anys i actualment estudio SMX, un camí que he triat perquè m’agrada tot el que envolta la tecnologia, el gaming i el disseny digital. 🎮✨
 
 Visc a Mataró (Barcelona) i, sempre que puc, m’agrada crear i experimentar amb projectes digitals: petits dissenys, idees web i qualsevol cosa que em permeti aprendre una mica més. 💡💻
 
