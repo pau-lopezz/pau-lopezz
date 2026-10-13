@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pau%20López&fontSize=70&animation=fadeIn" alt="Header animat de Pau López" width="100%" />
 </p>
-
 <div align="center">
   <p><b>18 anys · GM Sistemes Microinformàtics i Xarxes (Pía Santa Anna)</b></p>
   <p><i>Estudiant apassionat pel desenvolupament web, la creació de videojocs i la ciberseguretat.</i></p>
