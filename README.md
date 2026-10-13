@@ -84,4 +84,4 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
   <img src="https://img.shields.io/badge/Email-alu.pau.lopez%40mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pau López" />
 </a>
 <br /><br />
-💬 *Gràcies per visitar el meu perfil!* 👋
+*💬 Gràcies per visitar el meu perfil! 👋*
