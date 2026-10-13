@@ -72,7 +72,6 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pau-lopezz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pau-lopezz&layout=compact&theme=tokyonight&hide_border=true" alt="Llenguatges Més Utilitzats" width="48%" />
 </div>
 
 ---
@@ -82,7 +81,5 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
 <a href="mailto:alu.pau.lopez@mataro.epiaedu.cat">
   <img src="https://img.shields.io/badge/Email-alu.pau.lopez%40mataro.epiaedu.cat-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pau López" />
 </a>
-
 <br /><br />
-
 > 💬 *Gràcies per visitar el meu perfil!* 👋
