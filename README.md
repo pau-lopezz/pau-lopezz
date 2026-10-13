@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Estudiant-SMX-blue?style=for-the-badge&logo=school" alt="Estudiant SMX" />
   <img src="https://img.shields.io/badge/Ubicació-Mataró%2C%20Barcelona-red?style=for-the-badge&logo=googlemaps" alt="Mataró" />
 </div>
-
 <br />
 
 ---
