@@ -1,4 +1,9 @@
 <!-- HEADER VISUAL -->
+<!-- HEADER ANIMAT EN MOVIMENT -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pau%20López&fontSize=70&animation=fadeIn" alt="Header animat de Pau López" width="100%" />
+</p>
+
 <div align="center">
   <h1>👋 Hola! Soc en Pau López</h1>
   <p><b>18 anys · GM Sistemes Microinformàtics i Xarxes (Pía Santa Anna)</b></p>
@@ -73,9 +78,7 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
   <img src="https://github-readme-stats.vercel.app/api?username=pau-lopezz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques GitHub" width="48%" />
 </div>
 <div align="center">
-  <h3>👾 El meu mapa de contribucions</h3>
-  <img src="https://raw.githubusercontent.com/pau-lopezz/pau-lopezz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 ---
 
 ## 📓 Contacte
