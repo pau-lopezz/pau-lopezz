@@ -72,7 +72,10 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pau-lopezz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques GitHub" width="48%" />
 </div>
-
+<div align="center">
+  <h3>👾 El meu mapa de contribucions</h3>
+  <img src="https://raw.githubusercontent.com/pau-lopezz/pau-lopezz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## 📓 Contacte
