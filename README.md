@@ -72,8 +72,9 @@ Així podeu veure fàcilment en què he estat aprenent i experimentant! 💯
 ## 📊 Estadístiques de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pau-lopezz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pau-lopezz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadístiques GitHub" width="48%" />
 </div>
+<div align="center">
 
 ---
 
